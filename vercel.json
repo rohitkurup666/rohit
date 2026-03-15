@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://allaboutrelationship.blog/free-thumbnail-tool",
+      "permanent": true
+    }
+  ]
+}
